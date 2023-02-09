@@ -1,7 +1,4 @@
-# PT-Labs-Windows-Privilege-Escalation
-CTF Labs
-
-
+# PT-Labs-Windows-Privilege-Escalation CTF Labs
 This report contains 5 labs from the 'hack the box' website:
 Bounty
 Active
